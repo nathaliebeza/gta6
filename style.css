@@ -25,7 +25,7 @@ body {
     font-weight: bold;
 }
 .logo span {
-    color: #70d000;
+    color: #8400d0;
 }
 
 .nav-links {
@@ -41,7 +41,7 @@ body {
 }
 
 .nav-links a:hover {
-    color: #70d000;
+    color: #d00079;
 }
 
 .menu-btn {
@@ -56,7 +56,7 @@ body {
     height: 90vh;
     background:
     linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.8)),
-    url("https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=1600")
+    url("images\ \(3\).jpeg")
     center/cover;
 
     display: flex;
@@ -70,7 +70,7 @@ body {
 
 .hero-content h1 {
     font-size: 75px;
-    color: #70d000;
+    color: #880d78;
     margin: 15px 0;
 }
 
@@ -79,7 +79,7 @@ body {
     margin-bottom: 35px;
 }
 .btn {
-    background: #70d000;
+    background: #740665;
     color: black;
     padding: 15px 35px;
     text-decoration: none;
@@ -100,7 +100,7 @@ body {
 section h2 {
     font-size: 35px;
     margin-bottom: 30px;
-    color: #70d000;
+    color: #d00061;
 }
 .sobre p {
     max-width: 750px;
@@ -135,7 +135,7 @@ section h2 {
 
 .card h3 {
     margin: 20px;
-    color: #70d000;
+    color: #791653;
 }
 
 .card p {
@@ -150,7 +150,7 @@ section h2 {
 
 .card h3 {
     margin: 20px;
-    color: #70d000;
+    color: #6b1274;
 }
 
 .card p {
@@ -171,7 +171,7 @@ section h2 {
 .cta button {
     margin-top: 25px;
     padding: 15px 35px;
-    background: #70d000;
+    background: #7c075f;
     border: none;
     font-weight: bold;
     cursor: pointer;
@@ -226,7 +226,7 @@ body {
 }
 
 .nav-links a:hover {
-    color: #70d000;
+    color: #d000d0;
 }
 
 .menu-btn {
@@ -242,7 +242,7 @@ body {
     height: 90vh;
     background:
     linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.8)),
-    url("https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=1600")
+    url("images\ \(4\).jpeg")
     center/cover;
 
     display: flex;
